@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME202: Mechanics II - Dynamics"
+course_description: "An introduction to the sub-branch of mechanics, dynamics. Topics include Newtonian mechanics, particle kinetics and kinematics, coordinate systems, work and energy, conservation of momentum, angular momentum, moments of inertia, multidimensional kinetics and vibration."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Vibrations** <span id="6"></span> 
 *Objects subject to a restoring force will vibrate about a neutral
 position.  In this unit, we will look at the four basic modes of

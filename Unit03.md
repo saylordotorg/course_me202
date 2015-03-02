@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME202: Mechanics II - Dynamics"
+course_description: "An introduction to the sub-branch of mechanics, dynamics. Topics include Newtonian mechanics, particle kinetics and kinematics, coordinate systems, work and energy, conservation of momentum, angular momentum, moments of inertia, multidimensional kinetics and vibration."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Two-Dimensional Kinematics of a Rigid Body** <span
 id="3"></span> 
 *In the first two units, we studied objects as single points, without
