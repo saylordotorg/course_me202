@@ -194,3 +194,4 @@ advisories.  Please plan your time effectively.
 - [Unit 5](https://legacy.saylor.org/me202/Unit05/)
 - [Unit 6](https://legacy.saylor.org/me202/Unit06/)
 - [Unit 7](https://legacy.saylor.org/me202/Unit07/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ME/ME202/ME202-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ME/ME202/ME202-FinalExam-Answers.html)
