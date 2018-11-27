@@ -160,7 +160,7 @@ id="2.1.2"></span> 
     “Equations of Motion for a Particle: Newton’s 2nd Law”**
     Link: University of Nebraska-Lincoln: Dr. M. Negahban’s “[Equations
     of Motion for a Particle: Newton’s 2<sup>nd</sup>
-    Law](http://www.saylor.org/site/wp-content/uploads/2011/07/ME202-2.1.2.pdf)”
+    Law](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME202-2.1.2.pdf)”
     (PDF)  
         
      Instructions: The problems here will help you understand the
