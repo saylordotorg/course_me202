@@ -82,12 +82,12 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Connexions: Sunil Kumar Singh’s “Moment of Inertia of
     Rigid Bodies”**
     Link: Connexions: Sunil Kumar Singh’s “[Moment of Inertia of Rigid
-    Bodies](http://www.saylor.org/site/wp-content/uploads/2011/09/m14292.pdf)”
+    Bodies](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m14292.pdf)”
     (PDF)  
         
      Also Available In:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/m14292_1.10.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m14292_1.10.epub)  
         
      Instructions: In this subunit, you will learn how to compute the
     moment of inertia needed to compute rotational moment, which is
@@ -107,7 +107,7 @@ Upon successful completion of this unit, the student will be able to:
     Moment of Inertia”**
     Link: University of Nebraska-Lincoln: Dr. M. Negahban’s “[Mass
     Moment of
-    Inertia](http://www.saylor.org/site/wp-content/uploads/2011/07/ME202-4.1.1.pdf)”
+    Inertia](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME202-4.1.1.pdf)”
     (PDF)  
         
      Instructions: In this subunit, you will learn how to compute the
@@ -128,12 +128,12 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Connexions: Sunil Kumar Singh’s “Moment of Inertia of
     Rigid Bodies-Applications”**
     Link: Connexions: Sunil Kumar Singh’s “[Moment of Inertia of Rigid
-    Bodies-Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/m14365.pdf)”
+    Bodies-Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m14365.pdf)”
     (PDF)  
         
      Also Available In:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/m14365_1.5.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m14365_1.5.epub)  
         
      Instructions: In this subunit, you will learn how to apply the
     moment of inertia needed to compute rotational moment, which is
@@ -170,7 +170,7 @@ Upon successful completion of this unit, the student will be able to:
     Kinetic Equations of Motion”**
     Link: University of Nebraska-Lincoln: Dr. M. Negahban’s “[Equations
     for Two Dimensional
-    Motion](http://www.saylor.org/site/wp-content/uploads/2011/07/ME202-4.1.2.pdf)”
+    Motion](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME202-4.1.2.pdf)”
     (PDF)  
         
      Instructions: The problems in this subunit will help you to
@@ -317,7 +317,7 @@ Upon successful completion of this unit, the student will be able to:
     Energy Relation for a Rigid Body”**
     Link: University of Nebraska-Lincoln: Dr. M. Negahban’s “[Work
     Energy Relation for a Rigid
-    Body](http://www.saylor.org/site/wp-content/uploads/2011/07/ME202-4.2.1.pdf)”
+    Body](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME202-4.2.1.pdf)”
     (PDF)  
         
      Instructions: This subunit deals with how to compute work and
