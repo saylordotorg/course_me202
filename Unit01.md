@@ -47,7 +47,7 @@ id="1.1"></span> 
     “Rectilinear Motion”**
     Link: University of Nebraska-Lincoln: Dr. M. Negahban’s
     “[Rectilinear
-    Motion](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME202-1.1.pdf)”
+    Motion](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME202-1.1.pdf)”
     (PDF)  
         
      Instructions: Rectilinear kinematics involves the motion of
@@ -70,14 +70,14 @@ id="1.1"></span> 
 -   **Reading: Connexions: Sunil Kumar Singh’s “Rectilinear Motion” and
     “Rectilinear Motion-Application”**
     Links: Connexions: Sunil Kumar Singh’s “[Rectilinear
-    Motion](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m13612.pdf)”
+    Motion](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/m13612.pdf)”
     (PDF) and “[Rectilinear
-    Motion-Application](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m13612.pdf)”
+    Motion-Application](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/m13612.pdf)”
     (PDF)  
         
      Also Available In:  
 
-    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m13612_1.7.epub)  
+    [iBooks](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/m13612_1.7.epub)  
         
      Instructions: Rectilinear kinematics involves the motion of
     particles in a straight line.  Please click on both links above, and
@@ -169,7 +169,7 @@ id="1.2.1"></span> 
     “Curvilinear Motion -Rectangular Coordinates”**
     Link: University of Nebraska-Lincoln: Dr. M. Negahban’s
     “[Curvilinear Motion-Rectangular
-    Coordinates](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME202-1.2.1.pdf)”
+    Coordinates](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME202-1.2.1.pdf)”
     (PDF)  
         
      Instructions: Curvilinear motion involves the motion of particles
@@ -308,7 +308,7 @@ id="1.2.1"></span> 
 
 -   **Reading: Wikipedia: “Normal and Tangential Components”**
     Link: Wikipedia: “[Normal and Tangential
-    Components](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Tangential-and-normal-components.pdf)”
+    Components](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Tangential-and-normal-components.pdf)”
     (PDF)  
         
      Instructions: Curvilinear motion can be further broken down into
@@ -328,7 +328,7 @@ id="1.2.1"></span> 
     and Tangential Coordinates”**
     Link: University of Nebraska-Lincoln: Dr. M. Negahban’s “[Normal and
     Tangential
-    Coordinates](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME202-1.2.3.pdf)”
+    Coordinates](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME202-1.2.3.pdf)”
     (PDF)  
         
      Instructions: Curvilinear motion can be further broken down into
@@ -451,9 +451,9 @@ id="1.3.1"></span> 
 -   **Reading: Connexions: Sunil Kumar Singh’s “Relative Velocity in One
     Dimension” and “Relative Velocity in One Dimension (Application)”**
     Links: Connexions: Sunil Kumar Singh’s “[Relative Velocity in One
-    Dimension](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m13618.pdf)”
+    Dimension](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/m13618.pdf)”
     (PDF) and “[Relative Velocity in One Dimension
-    (Application](https://resources.saylor.org/archived/wp-content/uploads/2011/09/m14035.pdf))”
+    (Application](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/m14035.pdf))”
     (PDF)  
         
      Instructions: When there are two particles in a problem, and we are

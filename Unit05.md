@@ -28,7 +28,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: MIT OpenCourseWare: Dr. Widnall’s “Kinematics of a Rigid
     Body”**
     Link: MIT OpenCourseWare: Dr. Widnall’s “[Kinematics of a Rigid
-    Body](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME202-5.1.1.pdf)”
+    Body](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME202-5.1.1.pdf)”
     (PDF)  
         
      Instructions: This subunit deals with translation, rotational, and
@@ -54,12 +54,12 @@ id="5.2"></span> 
 **5.2.1 Angular Momentum** <span id="5.2.1"></span> 
 -   **Reading: MIT OpenCourseWare: Dr. Widnall’s “Angular Momentum”**
     Link: MIT OpenCourseWare: Dr. Widnall’s “[Angular
-    Momentum](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME202-5.2.1.pdf)”
+    Momentum](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME202-5.2.1.pdf)”
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME202-5.2.1-Bill-Widnall.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME202-5.2.1-Bill-Widnall.epub)  
       
      Instructions: This subunit deals with momentum experienced by three
     dimensional objects when they are rotated about a fixed point.
@@ -78,7 +78,7 @@ id="5.2"></span> 
 **5.2.2 Kinetic Energy** <span id="5.2.2"></span> 
 -   **Reading: MIT OpenCourseWare: Dr. Widnall’s “Kinetic Energy”**
     Link: MIT OpenCourseWare: Dr. Widnall’s “[Kinetic
-    Energy](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME202-5.2.2.pdf)”
+    Energy](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME202-5.2.2.pdf)”
     (PDF)  
         
      Instructions: This subunit deals with the energy experienced by
