@@ -81,7 +81,7 @@ Upon successful completion of this unit, the student will be able to:
     of Rigid Bodies”**
     Link: University of Nebraska-Lincoln: Dr. M. Negahban’s “[Motion of
     Rigid
-    Bodies](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME202-3.1.1.pdf)”
+    Bodies](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME202-3.1.1.pdf)”
     (PDF)  
         
      Instructions: The problems here will help you understand rigid body
@@ -256,7 +256,7 @@ id="3.2.1"></span> 
     “Instantaneous Center of Velocity”**
     Link: University of Nebraska-Lincoln: Dr. M. Negahban’s
     “[Instantaneous Center of
-    Velocity](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME202-3.2.1.pdf)”
+    Velocity](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME202-3.2.1.pdf)”
     (PDF)  
         
      Instructions: These problems will help you to apply the concept of
